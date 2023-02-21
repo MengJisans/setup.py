@@ -1,5 +1,5 @@
 📦 Build tutorial for setup.py
-===============================
+==============
 
 This repo exists to provide [an example setup.py] file, that can be used
 to bootstrap your next Python project. It includes some advanced
@@ -19,7 +19,7 @@ copy–paste from :)
 [Check out the example!][an example setup.py]
 
 Installation
------
+------
 
 ```bash
 cd your_project
