@@ -26,10 +26,10 @@ cd your_project
 
 # Download the setup.py file:
 #  download with wget
-wget https://raw.githubusercontent.com/navdeep-G/setup.py/master/setup.py -O setup.py
+wget https://raw.githubusercontent.com/MengJisans/setup.py/master/setup.py -O setup.py
 
 #  download with curl
-curl -O https://raw.githubusercontent.com/navdeep-G/setup.py/master/setup.py
+curl -O https://raw.githubusercontent.com/MengJisans/setup.py/master/setup.py
 ```
 
 To Do
